@@ -1,0 +1,95 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\DALTUDTXD_PMTinhToanSanBTCT_0305068_68TH3\\DALTUDTXD_PMTinhToanSanBTCT_0305068_68TH3\\Example_MVVM_TinhToanDam\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{198E229B-ED6E-4809-9547-F563B50C48CA}|Example_MVVM_TinhToanDam\\tinhtoandamsan.csproj|e:\\daltudtxd_pmtinhtoansanbtct_0305068_68th3\\daltudtxd_pmtinhtoansanbtct_0305068_68th3\\example_mvvm_tinhtoandam\\example_mvvm_tinhtoandam\\view\\beamview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{198E229B-ED6E-4809-9547-F563B50C48CA}|Example_MVVM_TinhToanDam\\tinhtoandamsan.csproj|solutionrelative:example_mvvm_tinhtoandam\\view\\beamview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{198E229B-ED6E-4809-9547-F563B50C48CA}|Example_MVVM_TinhToanDam\\tinhtoandamsan.csproj|e:\\daltudtxd_pmtinhtoansanbtct_0305068_68th3\\daltudtxd_pmtinhtoansanbtct_0305068_68th3\\example_mvvm_tinhtoandam\\example_mvvm_tinhtoandam\\viewmodel\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{198E229B-ED6E-4809-9547-F563B50C48CA}|Example_MVVM_TinhToanDam\\tinhtoandamsan.csproj|solutionrelative:example_mvvm_tinhtoandam\\viewmodel\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{198E229B-ED6E-4809-9547-F563B50C48CA}|Example_MVVM_TinhToanDam\\tinhtoandamsan.csproj|e:\\daltudtxd_pmtinhtoansanbtct_0305068_68th3\\daltudtxd_pmtinhtoansanbtct_0305068_68th3\\example_mvvm_tinhtoandam\\example_mvvm_tinhtoandam\\viewmodel\\beamviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{198E229B-ED6E-4809-9547-F563B50C48CA}|Example_MVVM_TinhToanDam\\tinhtoandamsan.csproj|solutionrelative:example_mvvm_tinhtoandam\\viewmodel\\beamviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{198E229B-ED6E-4809-9547-F563B50C48CA}|Example_MVVM_TinhToanDam\\tinhtoandamsan.csproj|e:\\daltudtxd_pmtinhtoansanbtct_0305068_68th3\\daltudtxd_pmtinhtoansanbtct_0305068_68th3\\example_mvvm_tinhtoandam\\example_mvvm_tinhtoandam\\model\\beammodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{198E229B-ED6E-4809-9547-F563B50C48CA}|Example_MVVM_TinhToanDam\\tinhtoandamsan.csproj|solutionrelative:example_mvvm_tinhtoandam\\model\\beammodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RelayCommand.cs",
+              "DocumentMoniker": "E:\\DALTUDTXD_PMTinhToanSanBTCT_0305068_68TH3\\DALTUDTXD_PMTinhToanSanBTCT_0305068_68TH3\\Example_MVVM_TinhToanDam\\Example_MVVM_TinhToanDam\\ViewModel\\RelayCommand.cs",
+              "RelativeDocumentMoniker": "Example_MVVM_TinhToanDam\\ViewModel\\RelayCommand.cs",
+              "ToolTip": "E:\\DALTUDTXD_PMTinhToanSanBTCT_0305068_68TH3\\DALTUDTXD_PMTinhToanSanBTCT_0305068_68TH3\\Example_MVVM_TinhToanDam\\Example_MVVM_TinhToanDam\\ViewModel\\RelayCommand.cs",
+              "RelativeToolTip": "Example_MVVM_TinhToanDam\\ViewModel\\RelayCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAowBoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T03:04:04.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BeamViewModel.cs",
+              "DocumentMoniker": "E:\\DALTUDTXD_PMTinhToanSanBTCT_0305068_68TH3\\DALTUDTXD_PMTinhToanSanBTCT_0305068_68TH3\\Example_MVVM_TinhToanDam\\Example_MVVM_TinhToanDam\\ViewModel\\BeamViewModel.cs",
+              "RelativeDocumentMoniker": "Example_MVVM_TinhToanDam\\ViewModel\\BeamViewModel.cs",
+              "ToolTip": "E:\\DALTUDTXD_PMTinhToanSanBTCT_0305068_68TH3\\DALTUDTXD_PMTinhToanSanBTCT_0305068_68TH3\\Example_MVVM_TinhToanDam\\Example_MVVM_TinhToanDam\\ViewModel\\BeamViewModel.cs",
+              "RelativeToolTip": "Example_MVVM_TinhToanDam\\ViewModel\\BeamViewModel.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAowF0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T03:04:02.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BeamView.xaml",
+              "DocumentMoniker": "E:\\DALTUDTXD_PMTinhToanSanBTCT_0305068_68TH3\\DALTUDTXD_PMTinhToanSanBTCT_0305068_68TH3\\Example_MVVM_TinhToanDam\\Example_MVVM_TinhToanDam\\View\\BeamView.xaml",
+              "RelativeDocumentMoniker": "Example_MVVM_TinhToanDam\\View\\BeamView.xaml",
+              "ToolTip": "E:\\DALTUDTXD_PMTinhToanSanBTCT_0305068_68TH3\\DALTUDTXD_PMTinhToanSanBTCT_0305068_68TH3\\Example_MVVM_TinhToanDam\\Example_MVVM_TinhToanDam\\View\\BeamView.xaml",
+              "RelativeToolTip": "Example_MVVM_TinhToanDam\\View\\BeamView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-02-11T03:03:59.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BeamModel.cs",
+              "DocumentMoniker": "E:\\DALTUDTXD_PMTinhToanSanBTCT_0305068_68TH3\\DALTUDTXD_PMTinhToanSanBTCT_0305068_68TH3\\Example_MVVM_TinhToanDam\\Example_MVVM_TinhToanDam\\Model\\BeamModel.cs",
+              "RelativeDocumentMoniker": "Example_MVVM_TinhToanDam\\Model\\BeamModel.cs",
+              "ToolTip": "E:\\DALTUDTXD_PMTinhToanSanBTCT_0305068_68TH3\\DALTUDTXD_PMTinhToanSanBTCT_0305068_68TH3\\Example_MVVM_TinhToanDam\\Example_MVVM_TinhToanDam\\Model\\BeamModel.cs",
+              "RelativeToolTip": "Example_MVVM_TinhToanDam\\Model\\BeamModel.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAowEMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T03:03:54.238Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
