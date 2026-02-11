@@ -8,7 +8,8 @@ a, Tính năng: Kết nối dữ liệu etabs <br>
    - Lấy thông tin dự án etabs <br>
    - Lấy tiết diện từ etabs <br>
    - Lấy nội lực <br>
-b,Tính năng: Nhập dữ liệu đầu vào khi tính toán dầm <br>
+     ính năng: Nhập dữ liệu đầu vào khi tính toán dầm <br>
+
 
 
 
